@@ -1,6 +1,6 @@
 # README.md
 
-[Link for DTU Summary](./dataset_summary/DTU/DTU_summary.md)
+[Link for DTU Summary](./dataset_summary/DTU/DTU_Summary.md)
 
 ## MVS Papers
 
